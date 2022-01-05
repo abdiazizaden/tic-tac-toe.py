@@ -130,6 +130,8 @@ def check_rows():
     return None
 
 
+
+
 # Check the columns for a win
 def check_columns():
   # Set global variables
